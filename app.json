@@ -1,6 +1,6 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "V2ME",
+    "description": "Deploy V2ME on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
@@ -16,7 +16,7 @@
             "value": "/v2up"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://github.com/v2up-lee/v2me",
+    "repository": "https://github.com/v2up-lee/v2me",
     "stack": "container"
 }
